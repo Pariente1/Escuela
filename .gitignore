@@ -1,0 +1,4 @@
+# Lista blanca: se ignora todo y solo se permite lo que se nombra aquí.
+*
+!.gitignore
+!main.swift
