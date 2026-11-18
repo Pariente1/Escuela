@@ -2,3 +2,7 @@
 *
 !.gitignore
 !main.swift
+
+# Actividad 2: banca en línea
+!A2/
+!A2/main.swift
